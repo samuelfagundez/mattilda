@@ -1,0 +1,39 @@
+@import 'tailwindcss';
+
+/* Paleta extraída de las fotografías reales del local (ver punto 0.5 del
+   handoff: nunca una paleta genérica de plantilla) — piedra cálida y
+   negro cálido de la fachada y el toldo de Carrer de Roteros, naranja
+   azafrán de los arroces y la fideuá, granate de la crema de remolacha
+   y dorado del crumble de los postres caseros. */
+@theme {
+  --color-cream: #f8f1e4;
+  --color-cream-dark: #efe2cc;
+  --color-ink: #2a2724;
+  --color-olive: #6e7a46;
+  --color-olive-dark: #4f5a31;
+  --color-terracotta: #b8752b;
+  --color-terracotta-dark: #8f5a1e;
+  --color-gold: #d9a23a;
+  --color-wine: #9c2f44;
+  --color-wine-dark: #7a2536;
+
+  --font-display: 'Fraunces', ui-serif, Georgia, serif;
+  --font-sans: 'Figtree', ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: var(--color-cream);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+  }
+}

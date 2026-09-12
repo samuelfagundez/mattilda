@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://samuelfagundez.github.io/mattilda/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mattilda/gallery/mattilda-fachada-terraza.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mattilda/gallery/mattilda-arroz-fideua.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mattilda/gallery/mattilda-puerros-jamon.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mattilda/gallery/mattilda-tartar-ensalada.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mattilda/gallery/mattilda-secreto-flor.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mattilda/gallery/mattilda-gazpacho.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mattilda/gallery/mattilda-brioche-mango.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mattilda/gallery/mattilda-postres.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
