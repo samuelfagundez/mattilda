@@ -1,0 +1,306 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "shortUrl": "https://maps.app.goo.gl/1kdSkbXy2o7sgGWC7",
+    "expandedUrl": "https://www.google.com/maps/place/Mattilda/@39.4789655,-0.3778237,20z/data=!4m6!3m5!1s0xd604f53a4120fdd:0x66fc60b885f09bfd!8m2!3d39.4789655!4d-0.3775018!16s%2Fg%2F1tfvjjrb?entry=tts&g_ep=EgoyMDI2MDkwOS4wIPu8ASoASAFQAw%3D%3D&skid=a2264c58-0a1a-4710-aea9-a68308faaf97&ucbcb=1",
+    "googleMapsUri": "https://maps.google.com/?cid=7420912631637122045&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "placeId": "ChIJ3Q8SpFNPYA0R_Zvwhbhg_GY",
+    "featureId": "0xd604f53a4120fdd:0x66fc60b885f09bfd",
+    "gmapsPlaceRef": "/g/1tfvjjrb",
+    "provider": "google-places-api-v1",
+    "fetchedAt": "2026-09-12T18:06:44.867Z"
+  },
+  "name": "Mattilda",
+  "rating": {
+    "score": 4.4,
+    "count": 746
+  },
+  "phone": "+34 963 92 31 68",
+  "phoneNational": "963 92 31 68",
+  "hours": {
+    "weekly": [
+      "lunes: Cerrado",
+      "martes: 13:00–16:00",
+      "miércoles: 13:00–16:00",
+      "jueves: 13:00–16:00",
+      "viernes: 13:00–16:00",
+      "sábado: 13:00–16:00",
+      "domingo: 13:00–16:00"
+    ],
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 13,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 13,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 13,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 13,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 13,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 13,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 16,
+          "minute": 0
+        }
+      }
+    ],
+    "secondary": []
+  },
+  "socials": [
+    {
+      "network": "Instagram",
+      "url": "https://www.instagram.com/mattilda_vlc/"
+    }
+  ],
+  "pricePerPerson": "20 € – 30 €",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "links": {
+    "website": "https://www.instagram.com/mattilda_vlc/",
+    "menu": null,
+    "reservations": "https://www.instagram.com/mattilda_vlc/",
+    "reservable": true,
+    "googleMaps": "https://maps.google.com/?cid=7420912631637122045&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "directions": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd604f53a4120fdd:0x66fc60b885f09bfd!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "reviews": "https://www.google.com/maps/place//data=!4m4!3m3!1s0xd604f53a4120fdd:0x66fc60b885f09bfd!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "photos": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd604f53a4120fdd:0x66fc60b885f09bfd!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "writeReview": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd604f53a4120fdd:0x66fc60b885f09bfd!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "address": {
+    "formatted": "Carrer de Roteros, 21, Ciutat Vella, 46003 València, Valencia",
+    "short": "Carrer de Roteros, 21, València",
+    "components": {
+      "number": "21",
+      "street": "Carrer de Roteros",
+      "city": "València",
+      "province": "Valencia",
+      "region": "Comunidad Valenciana",
+      "country": "España",
+      "postalCode": "46003"
+    }
+  },
+  "location": {
+    "lat": 39.4789655,
+    "lng": -0.3775018
+  },
+  "primaryType": "restaurant",
+  "primaryTypeLabel": "Restaurante",
+  "types": [
+    "restaurant",
+    "mediterranean_restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "editorialSummary": null,
+  "utcOffsetMinutes": 120,
+  "features": [
+    "Admite reservas",
+    "Comer en el local",
+    "Terraza / asientos fuera",
+    "Apto para grupos",
+    "Aseos",
+    "Brunch",
+    "Comidas",
+    "Cenas",
+    "Cafés",
+    "Postres",
+    "Cerveza",
+    "Vino",
+    "Cócteles"
+  ],
+  "accessibility": [
+    "Entrada accesible",
+    "Asientos accesibles"
+  ],
+  "paymentOptions": {
+    "acceptsCreditCards": true,
+    "acceptsDebitCards": true,
+    "acceptsCashOnly": false,
+    "acceptsNfc": true
+  },
+  "parkingOptions": {
+    "paidStreetParking": true
+  },
+  "photos": [
+    {
+      "file": "fotos/01.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "El Pucherete de Mari",
+      "attributionUri": "https://maps.google.com/maps/contrib/103114741406621174922"
+    },
+    {
+      "file": "fotos/02.jpg",
+      "widthPx": 828,
+      "heightPx": 556,
+      "attribution": "Sergio Ps",
+      "attributionUri": "https://maps.google.com/maps/contrib/117406572210778106871"
+    },
+    {
+      "file": "fotos/03.jpg",
+      "widthPx": 1600,
+      "heightPx": 900,
+      "attribution": "Diego Raul Galmarini",
+      "attributionUri": "https://maps.google.com/maps/contrib/104214445794233070907"
+    },
+    {
+      "file": "fotos/04.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Angel Adonay Ortiz",
+      "attributionUri": "https://maps.google.com/maps/contrib/113934445564207941869"
+    },
+    {
+      "file": "fotos/05.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "El Pucherete de Mari",
+      "attributionUri": "https://maps.google.com/maps/contrib/103114741406621174922"
+    },
+    {
+      "file": "fotos/06.jpg",
+      "widthPx": 3072,
+      "heightPx": 4096,
+      "attribution": "Vladimir Stojanovic",
+      "attributionUri": "https://maps.google.com/maps/contrib/114383583811971798411"
+    },
+    {
+      "file": "fotos/07.jpg",
+      "widthPx": 1600,
+      "heightPx": 1200,
+      "attribution": "Andrea Saiz Bronchud",
+      "attributionUri": "https://maps.google.com/maps/contrib/114537478248901254646"
+    },
+    {
+      "file": "fotos/08.jpg",
+      "widthPx": 4080,
+      "heightPx": 3072,
+      "attribution": "José Alberto Gallipoli Lameda",
+      "attributionUri": "https://maps.google.com/maps/contrib/104095323540070021068"
+    },
+    {
+      "file": "fotos/09.jpg",
+      "widthPx": 1600,
+      "heightPx": 900,
+      "attribution": "Diego Raul Galmarini",
+      "attributionUri": "https://maps.google.com/maps/contrib/104214445794233070907"
+    },
+    {
+      "file": "fotos/10.jpg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "attribution": "Delian Delchev (delian)",
+      "attributionUri": "https://maps.google.com/maps/contrib/108075917698423767164"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Diego Raul Galmarini",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjVl3xIQegcKwo5ZdkMThizL63MEF9FUo28Fq6Uiy1BzZURo5Bs=s128-c0x00000000-cc-rp-mo-ba7",
+      "authorUri": "https://www.google.com/maps/contrib/104214445794233070907/reviews",
+      "rating": 5,
+      "text": "Excelencia técnica en arroces en el corazón del Carmen\n\nSi buscas la verdadera maestría arrocera en Valencia sin caer en los circuitos puramente turísticos, Mattilda es una parada obligatoria. Ubicado en el emblemático Barrio del Carmen, este restaurante logra un equilibrio difícil de encontrar: respeto absoluto por la tradición y una ejecución técnica impecable.\n\nLo mejor de la experiencia:\n\n• Los Arroces y Fideuá: Sin duda, de lo mejor de la ciudad. El punto del grano es de una precisión milimétrica; entero, suelto y con un socarrat que es pura ingeniería culinaria. La Fideuá de fideo fino es espectacular, con una potencia de fondo (caldo) que delata horas de reducción y producto de primera calidad.\n\n• Entrantes de Autor: No se limitan a los clásicos. Cada entrante tiene una vuelta de tuerca que aporta frescura antes de llegar al plato principal. Las croquetas y el producto de lonja son imprescindibles.\n\n• Ambiente y Servicio: El local tiene una atmósfera acogedora y sofisticada, ideal tanto para una comida de negocios como para una cena tranquila. El servicio es profesional, conocedor de su carta y sabe asesorar perfectamente con el maridaje.\nVeredicto: Un restaurante que entiende que el valor está en el detalle. Si valoras la consistencia y la alta cocina de raíz, Mattilda es una apuesta segura en Valencia. Altamente recomendado.",
+      "language": "es",
+      "relativeTime": "Hace 6 meses",
+      "publishTime": "2026-02-28T15:59:58.379091364Z"
+    },
+    {
+      "author": "Crisher",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjUYGW0xpxCQBAIf5mRUzMvXfj2hFaN-YRkTTRvIPBBrOhjAnIgW=s128-c0x00000000-cc-rp-mo-ba5",
+      "authorUri": "https://www.google.com/maps/contrib/107583631973464755486/reviews",
+      "rating": 5,
+      "text": "Espectacular!!!!! Fuimos sin reserva, domingo al mediodía! Todo super rico! Tienen un menú de 25€, con 3entrantes, una más rico que otro, y de primero pedimos una paella con foie y alcachofas, que bueno!!!!!!! Postres, piña, fresas y tarta de queso….\nVisita obligada si estás por Valencia!!!!❤️",
+      "language": "es",
+      "relativeTime": "Hace 3 meses",
+      "publishTime": "2026-06-07T20:46:45.520258266Z"
+    },
+    {
+      "author": "RB",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjXXrqnGP1k7PMZG5SPHdPafiGlpYFLxbIjpLobOk6IlC0A6F9qM=s128-c0x00000000-cc-rp-mo-ba4",
+      "authorUri": "https://www.google.com/maps/contrib/110039628923144547629/reviews",
+      "rating": 4,
+      "text": "En el casco viejo de valencia descubrimos gracias a un recomendación este sitio, que no defraudó. Un cuidado y una calidad del producto excepcional. Una propuesta de menú con dos entradas, arroz y postre con el que te quedas satisfecho y con un buen sabor de boca. Y se adaptan si hay algún plato que no puedes comer. Muy recomendable.",
+      "language": "es",
+      "relativeTime": "Hace 6 meses",
+      "publishTime": "2026-02-19T07:54:04.169235921Z"
+    },
+    {
+      "author": "Natalie Ye",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocLyU1VpP1QLbXhawTaSVPzhLQQBD_-qZIYNDHEcwK0BcaodaOmJ=s128-c0x00000000-cc-rp-mo-ba3",
+      "authorUri": "https://www.google.com/maps/contrib/103619091075838777834/reviews",
+      "rating": 5,
+      "text": "De los mejores restaurantes del carmen. Hemos venido varias veces ya, y la comida está increible. El menú es súper completo y lo van cambiando, y todo está muy bueno y se nota que todo son ingredientes de buena calidad.",
+      "language": "es",
+      "relativeTime": "Hace 5 meses",
+      "publishTime": "2026-04-12T12:33:48.604423995Z"
+    },
+    {
+      "author": "Ailin Lazzati",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJXynxpi--LIHD-zjWQoExz6X0_BxQvcXOvJG4pO3x-za8B3Q=s128-c0x00000000-cc-rp-mo",
+      "authorUri": "https://www.google.com/maps/contrib/100518328444909156055/reviews",
+      "rating": 5,
+      "text": "Hemos llegado sin reserva en día de fallas y hemos tenido la suerte de conseguir una mesa. El menú es espectacular, se nota que todo es casero y riquísimo. Han sido muy amables. Nos ha encantado todo. Los postres son un éxito ! Recomiendo 100%",
+      "language": "es",
+      "relativeTime": "Hace 6 meses",
+      "publishTime": "2026-03-01T15:51:56.884939130Z"
+    }
+  ]
+}
